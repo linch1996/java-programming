@@ -36,4 +36,6 @@ collection/
 algorithm/
 lock/
 nowcoder/
+lib/
+zookeeper/
 .DS_Store
