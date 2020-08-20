@@ -38,4 +38,5 @@ lock/
 nowcoder/
 lib/
 zookeeper/
+thread/
 .DS_Store

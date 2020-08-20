@@ -12,7 +12,7 @@ public class Lambda {
         List<String> list = Arrays.asList("java", "python", "golang");
         list.forEach(x -> System.out.println("lambda, " + x));
 
-        // lambaa表达式实现map
+        // lambda表达式实现map
         List<Double> list1 = Arrays.asList(10.0, 20.0, 30.0);
         list1.stream().map(x -> x + x * 0.05).forEach(x -> System.out.println(x));
 
